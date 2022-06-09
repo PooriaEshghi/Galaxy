@@ -1,0 +1,1 @@
+export const ARTICLE_URL = "planetary/apod?api_key=WckuB7f8vWvmurXGb5839JLJLZtCerJIO75Sx4tG"
